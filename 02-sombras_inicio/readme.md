@@ -1,4 +1,4 @@
-# ThreeJS with Vite Starter Pack
+# ThreeJS - shadows
 ### Prerequisites
 Before you start, make sure you have Node.js installed on your machine: (https://nodejs.org/en/download/)
 
@@ -16,4 +16,3 @@ To start the development server, run the following command:
 ``` bash
 npm run dev
 ```
-This will start the server and open your default browser to your localhost. The site will reload automatically as you make changes to your code.
